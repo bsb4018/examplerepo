@@ -1,0 +1,1 @@
+print("Demonstration of removal purpose")
